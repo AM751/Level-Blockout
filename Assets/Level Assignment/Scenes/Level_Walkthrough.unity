@@ -9117,14 +9117,6 @@ PrefabInstance:
     m_TransformParent: {fileID: 785522328}
     m_Modifications:
     - target: {fileID: 5028317431602043867, guid: 25671454c6a6a4c889e504ef89a4c19a, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.007598588
-      objectReference: {fileID: 0}
-    - target: {fileID: 5028317431602043867, guid: 25671454c6a6a4c889e504ef89a4c19a, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.029331775
-      objectReference: {fileID: 0}
-    - target: {fileID: 5028317431602043867, guid: 25671454c6a6a4c889e504ef89a4c19a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.461
       objectReference: {fileID: 0}
@@ -9167,10 +9159,6 @@ PrefabInstance:
     - target: {fileID: 8595083051791763369, guid: 25671454c6a6a4c889e504ef89a4c19a, type: 3}
       propertyPath: m_Name
       value: Door_MK
-      objectReference: {fileID: 0}
-    - target: {fileID: 8595083051791763369, guid: 25671454c6a6a4c889e504ef89a4c19a, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
