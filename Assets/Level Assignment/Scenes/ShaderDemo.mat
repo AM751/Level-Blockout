@@ -273,7 +273,7 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Color_First_Try: {r: 0.6556604, g: 1, b: 0.91881424, a: 1}
+    - _Color_First_Try: {r: 0.08610716, g: 0.6392157, b: 0.34376875, a: 1}
     - _DiffusionProfileAsset: {r: 0, g: 0, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
