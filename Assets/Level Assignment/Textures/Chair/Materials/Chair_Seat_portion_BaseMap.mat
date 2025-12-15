@@ -37,8 +37,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _BaseColorMap:
         m_Texture: {fileID: 2800000, guid: 284e0f3f65ee54313987b559b8945190, type: 3}
-        m_Scale: {x: 2.84, y: 2.69}
-        m_Offset: {x: 0.39, y: 1.09}
+        m_Scale: {x: 5.53, y: 3.54}
+        m_Offset: {x: 0.39, y: 1.19}
     - _BentNormalMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -73,14 +73,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 284e0f3f65ee54313987b559b8945190, type: 3}
-        m_Scale: {x: 2.84, y: 2.69}
-        m_Offset: {x: 0.39, y: 1.09}
+        m_Scale: {x: 5.53, y: 3.54}
+        m_Offset: {x: 0.39, y: 1.19}
     - _MaskMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
-        m_Texture: {fileID: 2800000, guid: bb9cb7987a4b04e29b3f7054e53be7c6, type: 3}
+        m_Texture: {fileID: 2800000, guid: 55a838c4033464850a8989e0f1a20323, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMapOS:
@@ -180,7 +180,7 @@ Material:
     - _HeightPoMAmplitude: 2
     - _HeightTessAmplitude: 2
     - _HeightTessCenter: 0.5
-    - _InvTilingScale: 0.36166367
+    - _InvTilingScale: 0.22050716
     - _Ior: 1.5
     - _IridescenceMask: 1
     - _IridescenceThickness: 1
@@ -190,7 +190,7 @@ Material:
     - _MetallicRemapMax: 1
     - _MetallicRemapMin: 0
     - _NormalMapSpace: 0
-    - _NormalScale: 1
+    - _NormalScale: 1.59
     - _ObjectSpaceUVMapping: 0
     - _ObjectSpaceUVMappingEmissive: 0
     - _OpaqueCullMode: 2
