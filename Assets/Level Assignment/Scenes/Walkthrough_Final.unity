@@ -1911,7 +1911,7 @@ MonoBehaviour:
   priority: 0
   blendDistance: 0
   weight: 1
-  sharedProfile: {fileID: 11400000, guid: 48b047ab8457041f3842330f16269539, type: 2}
+  sharedProfile: {fileID: 11400000, guid: c127ff1d0684343d2b1a6fb721acd61d, type: 2}
 --- !u!1001 &442593497
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10755,6 +10755,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Table_4
       objectReference: {fileID: 0}
+    - target: {fileID: 8985221591917852323, guid: 195982d9f2a314ed39d33d4a62fdb1ac, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: -876546973899608171, guid: 6a360301e0b9ca04bb619a0fef73fa24, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
