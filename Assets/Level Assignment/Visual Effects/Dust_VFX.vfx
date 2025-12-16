@@ -16,10 +16,10 @@ MonoBehaviour:
   - title: Burst
     position:
       serializedVersion: 2
-      x: 263
+      x: 264
       y: 295
-      width: 475
-      height: 2220
+      width: 524
+      height: 2196
     contents:
     - model: {fileID: 8926484042661614700}
       id: 0
@@ -39,7 +39,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 264
     y: 295
-    width: 474
+    width: 524
     height: 2196
 --- !u!114 &114350483966674976
 MonoBehaviour:
@@ -492,7 +492,7 @@ MonoBehaviour:
   m_Children:
   - {fileID: 8926484042661614922}
   - {fileID: 8926484042661614929}
-  m_UIPosition: {x: 289, y: 1535}
+  m_UIPosition: {x: 340, y: 1371}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
